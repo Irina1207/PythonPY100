@@ -3,27 +3,42 @@
   <component name="ChangeListManager">
     <list default="true" id="eea350d5-7c48-4efe-934b-aa068e487a6f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_1/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_1/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие1/Домашнее_задание/task4/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие1/Домашнее_задание/task4/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_2/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_2/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_2/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_5/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_5/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_6/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_6/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_6/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_6/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_7/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_7/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_7/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_7/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Практические_задания/task1_1/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Практические_задания/task1_1/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Практические_задания/task1_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Практические_задания/task1_2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Практические_задания/task1_2/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Практические_задания/task1_2/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Практические_задания/task1_3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Практические_задания/task1_3/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Практические_задания/task1_3/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Практические_задания/task1_3/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Практические_задания/task1_4/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Практические_задания/task1_4/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Практические_задания/task1_5/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Практические_задания/task1_5/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Практические_задания/task1_5/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Практические_задания/task1_5/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Практические_задания/task2_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Практические_задания/task2_1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Практические_задания/task2_1/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Практические_задания/task2_1/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Практические_задания/task3_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Практические_задания/task3_1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Занятие3/Практические_задания/task3_1/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Практические_задания/task3_1/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_3/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_3/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_4/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_4/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_4/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task2_3/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task2_3/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_1/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_1/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_2/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_2/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_3/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_3/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_4/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_4/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_4/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_5/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_5/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_5/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_5/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_6/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_6/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_6/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_6/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_7/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_7/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_7/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_7/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_8/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_8/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_8/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_8/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task2_1/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task2_1/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task2_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task2_2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task2_2/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task2_2/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Практические_задания/task1_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Практические_задания/task1_1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Практические_задания/task1_1/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Практические_задания/task1_1/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Практические_задания/task1_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Практические_задания/task1_2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Практические_задания/task1_2/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Практические_задания/task1_2/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Практические_задания/task1_3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Практические_задания/task1_3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Практические_задания/task1_3/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Практические_задания/task1_3/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Практические_задания/task2_1/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Практические_задания/task2_1/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Практические_задания/task3_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Практические_задания/task3_1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Занятие4/Практические_задания/task3_1/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Занятие4/Практические_задания/task3_1/task-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +61,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.main (3)">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPY100" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,34 +70,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Занятие2/Практические_задания/task3_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Занятие2/Практические_задания/task3_4/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPY100" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_6/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_3/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,12 +92,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_7/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_6/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPY100" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_7/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,12 +136,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Занятие1/Лабораторные задания/task1_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task2_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Занятие1/Лабораторные задания/task1_3/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task2_2/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPY100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,12 +158,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Занятие2/Практические_задания/task3_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Занятие2/Практические_задания/task3_1/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_8/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (5)" />
+        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +192,8 @@
       <updated>1633537246276</updated>
       <workItem from="1633537255346" duration="6937000" />
       <workItem from="1634224146134" duration="8462000" />
-      <workItem from="1634828696887" duration="10298000" />
+      <workItem from="1634828696887" duration="10854000" />
+      <workItem from="1635260838334" duration="11285000" />
     </task>
     <task id="LOCAL-00001" summary="init занятие 2 14.10">
       <created>1634234950718</created>
@@ -186,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634234950718</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init занятие 3 21.10">
+      <created>1634839671515</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634839671515</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +217,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init занятие 2 14.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="init занятие 2 14.10" />
+    <MESSAGE value="init занятие 3 21.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="init занятие 3 21.10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -208,11 +232,11 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonPY100$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1634833954377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_6" />
-    <SUITE FILE_PATH="coverage/PythonPY100$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1634833749728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Занятие2/Практические_задания/task3_4" />
-    <SUITE FILE_PATH="coverage/PythonPY100$main__4_.coverage" NAME="main (4) Coverage Results" MODIFIED="1634839597317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_2" />
-    <SUITE FILE_PATH="coverage/PythonPY100$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1634837018664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_7" />
-    <SUITE FILE_PATH="coverage/PythonPY100$main__5_.coverage" NAME="main (5) Coverage Results" MODIFIED="1633544581424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Занятие1/Лабораторные задания/task1_3" />
-    <SUITE FILE_PATH="coverage/PythonPY100$main.coverage" NAME="main Coverage Results" MODIFIED="1634225613742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Занятие2/Практические_задания/task3_1" />
+    <SUITE FILE_PATH="coverage/PythonPY100$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1635268137208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_5" />
+    <SUITE FILE_PATH="coverage/PythonPY100$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1635272616555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Занятие3/Лабораторные_задания/task1_3" />
+    <SUITE FILE_PATH="coverage/PythonPY100$main__4_.coverage" NAME="main (4) Coverage Results" MODIFIED="1635271072927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_7" />
+    <SUITE FILE_PATH="coverage/PythonPY100$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1635269269841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_6" />
+    <SUITE FILE_PATH="coverage/PythonPY100$main__5_.coverage" NAME="main (5) Coverage Results" MODIFIED="1635270020879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task2_2" />
+    <SUITE FILE_PATH="coverage/PythonPY100$main.coverage" NAME="main Coverage Results" MODIFIED="1635272416946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Занятие4/Лабораторные_задания/task1_8" />
   </component>
 </project>
